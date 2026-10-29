@@ -1,15 +1,14 @@
 {
   "mappings": [
-    "/content/we-healthcare/language-masters/en:/",
-    "/content/we-healthcare/language-masters/en/:/en/",
-    "/content/we-healthcare/configuration:/.helix/config.json",
-    "/content/we-healthcare/metadata:/metadata.json",
-    "/content/we-healthcare/redirects:/redirects.json",
-    "/content/we-healthcare/graphql:/graphql.json",
-    "/content/we-healthcare/placeholders:/placeholders.json"
+    "/content/chuich/coworker-content-data-test/language-masters/en:/",
+    "/content/chuich/coworker-content-data-test/language-masters/en/:/en/",
+    "/content/chuich/coworker-content-data-test/configuration:/.helix/config.json",
+    "/content/chuich/coworker-content-data-test/metadata:/metadata.json",
+    "/content/chuich/coworker-content-data-test/redirects:/redirects.json",
+    "/content/chuich/coworker-content-data-test/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/we-healthcare/",
-    "/content/dam/we-healthcare/"
+    "/content/chuich/coworker-content-data-test/",
+    "/content/dam/chuich/coworker-content-data-test/"
   ]
 }
